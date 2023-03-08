@@ -1,0 +1,3 @@
+# Repositório do 5º Período :computer:
+## Objetivo :dart:
+Fazer versionamento dos códigos/atividades criadas dentro do repositório, além de guardar de lembrança o que foi feito no 5º período...
