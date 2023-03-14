@@ -1,4 +1,4 @@
-package LP2;
+package LP2.Tarefas1;
 
 import java.util.Scanner;
 
@@ -12,9 +12,9 @@ public class Atividade6 {
 		System.out.println("Digite quantos metros de altura:");
 		altura = scan.nextDouble();
 
-		double metroQuadrado = largura*altura;
-		double totalDeLitros = (metroQuadrado*300)/1000;
-		System.out.println("Tota de litros para pintar será "+totalDeLitros +" litros.");
+		double metroQuadrado = largura * altura;
+		double totalDeLitros = (metroQuadrado * 300) / 1000;
+		System.out.println("Tota de litros para pintar serï¿½ " + totalDeLitros + " litros.");
 	}
 
 }

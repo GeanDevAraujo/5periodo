@@ -1,4 +1,4 @@
-package LP2;
+package LP2.Tarefas1;
 
 import java.util.Scanner;
 
@@ -9,9 +9,9 @@ public class Atividade5 {
 
 		double raio;
 		double pi = 3.14;
-		System.out.println("Qual o raio do círculo?");
+		System.out.println("Qual o raio do cï¿½rculo?");
 		raio = scan.nextDouble();
-		System.out.println("A área do círculo é "+(pi*raio*raio));
+		System.out.println("A ï¿½rea do cï¿½rculo ï¿½ " + (pi * raio * raio));
 	}
 
 }

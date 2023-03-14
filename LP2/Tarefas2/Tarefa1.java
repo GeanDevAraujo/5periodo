@@ -1,4 +1,4 @@
-package LP2;
+package LP2.Tarefas2;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package LP2;
+package LP2.Tarefas1;
 
 import java.util.Scanner;
 
@@ -12,8 +12,8 @@ public class Atividade4 {
 		nome = scan.next();
 		System.out.println("Qual sua idade?");
 		idade = scan.nextInt();
-		
-		System.out.println(nome+",você tem "+(idade*365)+" dias de vida!");
+
+		System.out.println(nome + ",vocï¿½ tem " + (idade * 365) + " dias de vida!");
 	}
 
 }
